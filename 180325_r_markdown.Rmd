@@ -32,4 +32,4 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## 수식
 
 
-$$\alpha = (1 - \beta)^2}$$
+$$\alpha = (1 - \beta)^2$$
